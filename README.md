@@ -138,7 +138,7 @@ python3 inference.py --model pretrained/apple2orange.pb \
 
 ## Pretrained models
 My pretrained models are available at 
-s://github.com/gongpx20069/CycleGAN-TensorFlow/releases
+https://github.com/gongpx20069/CycleGAN-TensorFlow/releases
 
 ## Contributing
 Please open an issue if you have any trouble or found anything incorrect in my code :)
